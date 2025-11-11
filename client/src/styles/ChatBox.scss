@@ -1,0 +1,16 @@
+@import '../styles/mixins';
+
+.chatbox {
+  @include flex-center;
+  flex-direction: column;
+
+  input {
+    width: 80%;
+    padding: 0.5rem;
+    margin-bottom: 1rem;
+  }
+
+  button {
+    @include button-style(#fca311, #fff);
+  }
+}

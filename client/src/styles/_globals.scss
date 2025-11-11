@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  font-family: $font-main;
+  background-color: $color-bg;
+  color: $color-text;
+}
+
+h1, h2, h3 {
+  color: $color-accent;
+}
+
+.card {
+  background: $color-card;
+  border-radius: 10px;
+  padding: 1rem;
+  margin: 1rem;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+  transition: transform 0.2s ease;
+
+  &.up {
+    border-left: 5px solid $color-up;
+  }
+
+  &.down {
+    border-left: 5px solid $color-down;
+  }
+
+  &:hover {
+    transform: scale(1.02);
+  }
+}
