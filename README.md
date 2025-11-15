@@ -34,7 +34,7 @@ Follow these steps to get the Helios app up and running on your local machine.
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/Tomnguyen2604/helios-app
 cd helios-app
 ```
 
