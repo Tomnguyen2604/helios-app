@@ -1,0 +1,51 @@
+{
+  "financial_qa": [
+    {
+      "question": "What is a stock?",
+      "answer": "A stock represents ownership in a company. When you buy a stock, you become a shareholder and own a portion of that company."
+    },
+    {
+      "question": "What is market capitalization?",
+      "answer": "Market capitalization (market cap) is the total value of a company's outstanding shares. It's calculated by multiplying the stock price by the number of shares."
+    },
+    {
+      "question": "What is a bull market?",
+      "answer": "A bull market is a period when stock prices are rising or expected to rise. It's characterized by investor optimism and confidence."
+    },
+    {
+      "question": "What is a bear market?",
+      "answer": "A bear market is a period when stock prices are falling or expected to fall, typically by 20% or more from recent highs. It's marked by pessimism and negative sentiment."
+    },
+    {
+      "question": "What is diversification?",
+      "answer": "Diversification is an investment strategy that spreads your money across different assets to reduce risk. Don't put all your eggs in one basket."
+    },
+    {
+      "question": "What is a dividend?",
+      "answer": "A dividend is a payment made by a company to its shareholders, usually from profits. It's a way for companies to share earnings with investors."
+    },
+    {
+      "question": "What is volatility?",
+      "answer": "Volatility measures how much a stock's price fluctuates over time. High volatility means larger price swings, while low volatility indicates more stable prices."
+    },
+    {
+      "question": "What is a P/E ratio?",
+      "answer": "The Price-to-Earnings (P/E) ratio compares a company's stock price to its earnings per share. It helps investors evaluate if a stock is overvalued or undervalued."
+    },
+    {
+      "question": "What is an ETF?",
+      "answer": "An Exchange-Traded Fund (ETF) is a basket of securities that trades on an exchange like a stock. It offers diversification and typically has lower fees than mutual funds."
+    },
+    {
+      "question": "What is dollar-cost averaging?",
+      "answer": "Dollar-cost averaging is investing a fixed amount regularly regardless of price. This strategy helps reduce the impact of market volatility on your investments."
+    }
+  ],
+  "market_insights": [
+    "Tech stocks have shown strong growth due to digital transformation trends.",
+    "Interest rate changes by the Federal Reserve significantly impact stock markets.",
+    "Diversification across sectors helps manage portfolio risk.",
+    "Long-term investing typically outperforms short-term trading.",
+    "Market corrections are normal and can present buying opportunities."
+  ]
+}
